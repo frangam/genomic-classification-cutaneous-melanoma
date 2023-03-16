@@ -6,5 +6,5 @@ Exploring the Genomic Classification of Cutaneous Melanoma with R programming la
 ## Citation
 Please, cite our work:
 
-[Garcia-Moreno, F.M.](https://frangam.com/); Ruiz-Espigares, J. "Discovering new biomarkers in Cutaneous Melanoma".
+[Garcia-Moreno, F.M.](https://frangam.com/); Ruiz-Espigares, J. "Discovering new biomarkers in Cutaneous Melanoma", 2023.
 

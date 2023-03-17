@@ -6,7 +6,9 @@ Exploring the Genomic Classification of Cutaneous Melanoma with R programming la
 
 ## Download last release
 Support us downloading our last release
-- Click on [genomic-classification-cutaneous-melanoma](https://github.com/frangam/genomic-classification-cutaneous-melanoma/releases/download/1.0/genomic-classification-cutaneous-melanoma-v1.0.zip) or on Downloads counter [![GitHub all releases](https://img.shields.io/github/downloads/frangam/genomic-classification-cutaneous-melanoma/total)](https://github.com/frangam/genomic-classification-cutaneous-melanoma/releases/download/1.0/genomic-classification-cutaneous-melanoma-v1.0.zip)
+
+- Click on this button to download [![GitHub all releases](https://img.shields.io/github/downloads/frangam/genomic-classification-cutaneous-melanoma/total)](https://github.com/frangam/genomic-classification-cutaneous-melanoma/releases/download/1.0/genomic-classification-cutaneous-melanoma-v1.0.zip)
+- We also appreciate your support downloading it on ZENODO site: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7745649.svg)](https://doi.org/10.5281/zenodo.7745649)
 
 ## Setup
 ### Requirements

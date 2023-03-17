@@ -10,6 +10,9 @@ Exploring the Genomic Classification of Cutaneous Melanoma with R programming la
 - Download the code of [wearable-sensor-ml-pipeline](https://github.com/frangam/wearable-sensor-ml-pipeline)
 - Include it into the project file
 
+## Download last release
+- Download last release of [genomic-classification-cutaneous-melanoma](https://github.com/frangam/genomic-classification-cutaneous-melanoma/releases/download/1.0/genomic-classification-cutaneous-melanoma-v1.0.zip)
+
 
 ## Citation
 Please, cite our work:

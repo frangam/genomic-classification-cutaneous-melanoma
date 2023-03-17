@@ -1,0 +1,4 @@
+# Requirements
+- This project use an own R library to make classifications / predictions with machine learning in an easy way
+- Download the code of wearable-sensor-ml-pipeline: https://github.com/frangam/wearable-sensor-ml-pipeline
+- Include it into the project file
